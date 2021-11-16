@@ -6,7 +6,7 @@
 }
 
 .first-screen {
-  background: url("./img/first-screen/background.png");
+  background: url("../../img/first-screen/background.png");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
